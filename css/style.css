@@ -1,0 +1,15 @@
+/*
+primary: #ec407a; hot pink
+p-light: #ff77a9;
+p-dark: #b4004e;
+secondary: #64dd17; neon green
+s-light: #9cff57;
+s-dark: #1faa00;
+*/
+body {
+    background-color:#ec407a;
+}
+h1,
+h2 {
+    font-family: 'Oswald', sans-serif;    
+}
