@@ -6,10 +6,38 @@ secondary: #64dd17; neon green
 s-light: #9cff57;
 s-dark: #1faa00;
 */
+/* global styles */
 body {
     background-color:#ec407a;
 }
 h1,
 h2 {
+    text-align: center;
     font-family: 'Oswald', sans-serif;    
+}
+h1 {
+    font-size: 50px;
+}
+
+ul {
+    display: inline-block;
+}
+
+li {
+    display: inline-block;
+}
+a {
+    font-size: 36px;
+    margin: 3px;
+}
+/* header styles*/
+header li {
+    margin: 0 3px;
+}
+header li:first-of-type {
+    margin-left: 0px;
+}
+/* footer styles*/
+footer a {
+    font-size: 36px;
 }
